@@ -1,0 +1,1016 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+#Headere {
+    max-width: 1536px;
+    width: 100%;
+    height: 72px;
+    padding: 12px 32px;
+    background: #FBF9FF;
+    margin-bottom: 94px;
+}
+
+#LogoDiv {
+    width: 1536px;
+    display: inline;
+    vertical-align: middle;
+}
+
+#MainBar {
+    margin-left: 484px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#Pricing {
+    color: #323232;
+    font-size: 18px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#FAQ {
+    color: #323232;
+    font-size: 18px;
+    margin: 0 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#Our {
+    color: #323232;
+    font-size: 18px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#ContactBar {
+    margin-left: 455px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#ContactUS {
+    font-weight: 500;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 8px;
+    border: 1px solid #6941C6;
+    background: #6941C6;
+    padding: 8px 16px;
+    color: #fff;
+}
+
+#SectionDiv {
+    background: #F1E8FF;
+    width: 1440px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 96px;
+
+}
+
+#MainTitleDiv {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 32px;
+}
+
+#PricingH {
+    color: #181D27;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+#SimpleP {
+    color: #535862;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 20px;
+    margin-bottom: 32px;
+}
+
+#OffersDiv {
+    max-width: 1440px;
+    padding: 0 64px;
+}
+
+#FirstOffer {
+    width: 307px;
+    display: inline-block;
+    vertical-align: top;
+    background: #fff;
+    border: 1px solid #E9EAEB;
+    border-radius: 16px;
+    padding: 0 16px;
+}
+
+#BasicP {
+    margin: 0 auto;
+    margin-top: 40px;
+    text-align: center;
+    width: 93px;
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    border-radius: 99px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    padding: 4px 12px;
+    margin-bottom: 16px;
+}
+
+#TenDollar {
+    text-align: center;
+    color: #181D27;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px;
+    margin-bottom: 8px;
+}
+
+#PlanP {
+    text-align: center;
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#StartButton {
+    padding: 12px 18px;
+    border: 2px solid rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+    background: #7F56D9;
+    color: #fff;
+    font-weight: 600;
+    line-height: 24px;
+    border: none;
+    width: 270px;
+    text-align: center;
+    margin-top: 16px;
+}
+
+#ChatButton {
+    padding: 12px 18px;
+    border-radius: 8px;
+    font-weight: 600;
+    line-height: 24px;
+    border: none;
+    width: 270px;
+    text-align: center;
+    margin-top: 12px;
+    border: 1px solid #D5D7DA;
+    background: #fff;
+    color: #414651;
+    margin-bottom: 16px;
+}
+
+#AccsesDiv {
+    border-top: 1px solid #4146516b;
+    padding-top: 16px;
+    vertical-align: middle;
+}
+
+#AccsesDiv img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#AccsesP {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    line-height: 24px;
+}
+
+#BasicDiv {
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+#BasicDiv img {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#BasicPP {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    line-height: 24px;
+}
+
+#UpDiv {
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+#UpDiv img {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#UpP {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    line-height: 24px;
+}
+
+#GBDiv {
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+#GBDiv img {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#GBP {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    line-height: 24px;
+}
+
+#ChatDiv {
+    vertical-align: middle;
+    margin-bottom: 30px;
+    margin-top: 8px;
+}
+
+#ChatDiv img {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#ChatP {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    line-height: 24px;
+
+}
+
+#SecondOffer {
+    width: 307px;
+    display: inline-block;
+    vertical-align: top;
+    background: #fff;
+    border: 1px solid #E9EAEB;
+    border-radius: 16px;
+    padding: 0 16px;
+    margin: 0 77px;
+
+}
+
+#BusinessP {
+    margin: 0 auto;
+    margin-top: 40px;
+    text-align: center;
+    width: 130px;
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    border-radius: 99px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    padding: 4px 12px;
+    margin-bottom: 16px;
+}
+
+#TwentyDollar {
+    text-align: center;
+    color: #181D27;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px;
+    margin-bottom: 8px;
+}
+
+#GrowingP {
+    text-align: center;
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
+#GetButton {
+    padding: 12px 18px;
+    border: 2px solid rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+    background: #7F56D9;
+    color: #fff;
+    font-weight: 600;
+    line-height: 24px;
+    border: none;
+    width: 270px;
+    text-align: center;
+    margin-top: 16px;
+
+}
+
+#ToButton {
+    padding: 12px 18px;
+    border-radius: 8px;
+    font-weight: 600;
+    line-height: 24px;
+    border: none;
+    width: 270px;
+    text-align: center;
+    margin-top: 12px;
+    border: 1px solid #D5D7DA;
+    background: #fff;
+    color: #414651;
+    margin-bottom: 16px;
+
+}
+
+#integrationsDiv {
+    border-top: 1px solid #4146516b;
+    padding-top: 16px;
+    vertical-align: middle;
+}
+
+#integrationsDiv img {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#integrationsP {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    line-height: 24px;
+}
+
+#AdvancedDiv {
+    vertical-align: middle;
+    margin-top: 8px;
+}
+
+#AdvancedDiv img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#AdvancedP {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    line-height: 24px;
+
+}
+
+#UserDiv {
+    vertical-align: middle;
+    margin-top: 8px;
+}
+
+#UserDiv img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#UserP {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    line-height: 24px;
+}
+
+#DataDiv {
+    vertical-align: middle;
+    margin-top: 8px;
+
+}
+
+#DataDiv img {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#DataP {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    line-height: 24px;
+
+}
+
+#supportDiv {
+    vertical-align: middle;
+    margin-bottom: 30px;
+    margin-top: 8px;
+
+}
+
+#supportDiv img {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#supportP {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    line-height: 24px;
+
+}
+
+#ThirdOffer {
+    width: 307px;
+    display: inline-block;
+    vertical-align: top;
+    background: #fff;
+    border: 1px solid #E9EAEB;
+    border-radius: 16px;
+    padding: 0 16px;
+
+}
+
+#EnterpriseP {
+    margin: 0 auto;
+    margin-top: 40px;
+    text-align: center;
+    width: 130px;
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    border-radius: 99px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    padding: 4px 12px;
+    margin-bottom: 16px;
+
+}
+
+#FortyDollar {
+    text-align: center;
+    color: #181D27;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px;
+    margin-bottom: 8px;
+
+}
+
+#UnlimitedP {
+    text-align: center;
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
+#GetDiv {
+    padding: 12px 18px;
+    border: 2px solid rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+    background: #7F56D9;
+    color: #fff;
+    font-weight: 600;
+    line-height: 24px;
+    border: none;
+    width: 270px;
+    text-align: center;
+    margin-top: 16px;
+}
+
+#SalesButton {
+    padding: 12px 18px;
+    border-radius: 8px;
+    font-weight: 600;
+    line-height: 24px;
+    border: none;
+    width: 270px;
+    text-align: center;
+    margin-top: 12px;
+    border: 1px solid #D5D7DA;
+    background: #fff;
+    color: #414651;
+    margin-bottom: 16px;
+}
+
+#customDiv {
+    border-top: 1px solid #4146516b;
+    padding-top: 16px;
+    vertical-align: middle;
+
+}
+
+#customDiv img {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#customP {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    line-height: 24px;
+
+}
+
+#AuditDiv {
+    vertical-align: middle;
+    margin-top: 8px;
+
+}
+
+#AuditDiv img {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#AuditP {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    line-height: 24px;
+
+}
+
+#individualDiv {
+    vertical-align: middle;
+    margin-top: 8px;
+
+}
+
+#individualDiv img {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#individualP {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    line-height: 24px;
+
+}
+
+#DataaDiv {
+    vertical-align: middle;
+    margin-top: 8px;
+
+}
+
+#DataaDiv img {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#DataaP {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    line-height: 24px;
+
+}
+
+#priorityDiv {
+    vertical-align: middle;
+    margin-bottom: 30px;
+    margin-top: 8px;
+
+}
+
+#priorityDiv img {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#priorityP {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    line-height: 24px;
+
+}
+
+#QuestionDiv {
+    max-width: 1248px;
+    width: 100%;
+    padding: 32px 0;
+    border-radius: 24px;
+    background: #FFF;
+    height: 1252px;
+    margin: 64px 0;
+}
+
+#AskedDiv {
+    max-width: 768px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 32px;
+}
+
+#AskedH {
+    color: #181D27;
+    text-align: center;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 44px;
+    margin-bottom: 20px;
+}
+
+#billingP {
+    color: #535862;
+    text-align: center;
+    line-height: 28px;
+    font-size: 24px;
+}
+
+#GrayDiv {
+    max-width: 768px;
+    width: 100%;
+    border-radius: 16px;
+    background: #E4E4E4;
+    padding: 32px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+}
+
+#PwichkaDiv {
+    vertical-align: middle;
+}
+
+#PwichkaDiv img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 24px;
+}
+
+#PwichkaDiv p {
+    display: inline-block;
+    vertical-align: middle;
+    color: #181D27;
+    line-height: 24px;
+}
+
+#PossibleP {
+    width: 604px;
+    color: #535862;
+    line-height: 24px;
+    margin: 0 auto;
+}
+
+#OrangeDiv {
+    max-width: 768px;
+    width: 100%;
+    border-radius: 16px;
+    border: 2px solid #FF2323;
+    background: #FFE5E5;
+    padding: 32px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+
+}
+
+#imgDiv {
+    vertical-align: middle;
+}
+
+#imgDiv img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 24px;
+}
+
+#imgDiv p {
+    display: inline-block;
+    vertical-align: middle;
+    color: #181D27;
+    line-height: 24px;
+}
+
+#TimeP {
+    width: 604px;
+    color: #535862;
+    line-height: 24px;
+    margin: 0 auto;
+}
+
+#PurpleDiv {
+    max-width: 768px;
+    width: 100%;
+    border-radius: 16px;
+    background: #E9D7FF;
+    padding: 32px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+}
+
+#IsariDablaDiv {
+    vertical-align: middle;
+}
+
+#IsariDablaDiv img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 24px;
+}
+
+#IsariDablaDiv p {
+    display: inline-block;
+    vertical-align: middle;
+    color: #181D27;
+    line-height: 24px;
+}
+
+#cycleP {
+    width: 604px;
+    color: #535862;
+    line-height: 24px;
+    margin: 0 auto;
+}
+
+#MoWhiteoDiv {
+    max-width: 768px;
+    width: 100%;
+    border-radius: 16px;
+    background: #F7F4FF;
+    padding: 32px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+}
+
+#InvoiceDiv {
+    vertical-align: middle;
+}
+
+#InvoiceDiv img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 24px;
+}
+
+#InvoiceDiv p {
+    display: inline-block;
+    vertical-align: middle;
+    color: #181D27;
+    line-height: 24px;
+}
+
+#assistanceP {
+    width: 604px;
+    color: #535862;
+    line-height: 24px;
+    margin: 0 auto;
+}
+
+#CyanDiv {
+    max-width: 768px;
+    width: 100%;
+    border-radius: 16px;
+    border: 4px solid #326DFF;
+    background: #DCE6FF;
+    padding: 32px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+
+}
+
+#DoesDiv {
+    vertical-align: middle;
+}
+
+#DoesDiv img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 24px;
+}
+
+#DoesDiv p {
+    display: inline-block;
+    vertical-align: middle;
+    color: #181D27;
+    line-height: 24px;
+}
+
+#NumberP {
+    width: 596px;
+    color: #535862;
+    line-height: 24px;
+    margin: 0 auto;
+
+}
+
+#RedDiv {
+    max-width: 768px;
+    width: 100%;
+    border-radius: 16px;
+    background: #FFD5E7;
+    padding: 32px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+}
+
+#EmailDiv {
+    vertical-align: middle;
+}
+
+#EmailDiv img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 24px;
+}
+
+#EmailDiv p {
+    display: inline-block;
+    vertical-align: middle;
+    color: #181D27;
+    line-height: 24px;
+}
+
+#ChangeP {
+    width: 596px;
+    color: #535862;
+    line-height: 24px;
+    margin: 0 auto;
+}
+
+#LastDiv {
+    max-width: 1248px;
+    width: 100%;
+    border-radius: 24px;
+    background: #FFF;
+    padding: 32px 0;
+    margin: 0 auto;
+}
+
+#HeaderContainer {
+    max-width: 1184px;
+    width: 100%;
+    padding: 0 32px;
+    text-align: center;
+}
+
+#ReviewsH {
+    color: #181D27;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 44px;
+}
+
+#HearP {
+    color: #535862;
+    text-align: center;
+    font-size: 24px;
+    line-height: 30px;
+    margin-top: 20px;
+}
+
+#WarpspeedDiv {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 580px;
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    padding: 32px;
+    margin-top: 64px;
+}
+
+#UntitledP {
+    color: #181D27;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    padding: 32px 32px 80px 32px;
+}
+
+#SiennaDiv {
+    display: flex;
+    flex-direction: column;
+}
+
+#SienP {
+    display: inline-block;
+    vertical-align: middle;
+    color: #181D27;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+#ManegerP {
+    display: block;
+    color: #535862;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0 auto;
+}
+
+#rame {
+    vertical-align: top;
+}
+
+#WarIMg {
+    display: inline;
+    text-align: right;
+}
+
+#mainWraper {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+#profile_container {
+    display: flex;
+    gap: 12px;
+}
+
+#user_name {
+    display: flex;
+    gap: 4px;
+}
+
+#OdeaoLabsDiv {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 580px;
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    padding: 32px;
+    margin-top: 64px;
+    margin-left: 24px;
+
+}
+
+#BecomeP {
+    color: #181D27;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    padding: 32px 32px 50px 32px;
+}
+
+#Containerrrr {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+#SaxeliAgharviciDiv {
+    display: flex;
+    gap: 12px;
+
+}
+
+#DivebisDivi {
+    display: flex;
+    flex-direction: column;
+
+}
+
+#Divertiii {
+    display: flex;
+    gap: 4px;
+}
+
+.avatarname {
+    color: #181D27;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+.Description {
+    color: #535862;
+    font-size: 16px;
+    line-height: 24px;
+
+}
+
+/* saba bolo ori vitom arc yofila,
+ magashi ar damaklo qula raaa
+  4 dgea amas vaketeb davigale imana :DDDDDDDDDDDDDDDDDDDDD */
